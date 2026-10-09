@@ -1,0 +1,4 @@
+gene	variant	consequence	clinvar	gnomad_af	cadd	revel	matched_hpo
+GENE_A	c.100C>T	stop_gained	Pathogenic	0.00001	38	.	HP:0001250,HP:0001263
+GENE_B	c.200G>A	missense_variant	Uncertain_significance	0.0004	24	0.8	HP:0001250
+GENE_C	c.300A>G	synonymous_variant	Likely_benign	0.08	3	.	HP:0001263
